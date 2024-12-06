@@ -1,5 +1,8 @@
 # E-Commerce Website (ReactJS)
 
+## Live Demo
+Check out the live website: [E-Commerce Store](https://anshita-shopping.netlify.app/)
+
 <h3>Homepage</h3>
 <img src="https://github.com/samarpansarkar/E-Commerce-greatstack/blob/master/Capture.JPG"/>
 <hr/>
